@@ -18,6 +18,10 @@ S.No	Name of the Apparatus	Range	Quantity
 CIRCUIT DIAGRAM:
 ![WhatsApp Image 2025-12-27 at 6 09 14 PM](https://github.com/user-attachments/assets/b4048399-40fc-4b0f-add0-560924d87ac9)
 ![WhatsApp Image 2025-12-27 at 6 09 16 PM](https://github.com/user-attachments/assets/2b97d479-2097-45f8-8ff3-c261b12cc93f)
+<img width="1054" height="541" alt="exp5,1,2" src="https://github.com/user-attachments/assets/80d9a74e-937b-4a58-b88b-e6ab9da3c6b3" />
+<img width="1017" height="425" alt="exp5,1" src="https://github.com/user-attachments/assets/a6097d86-05cd-49f2-ac2f-b179aef4e52a" />
+<img width="1010" height="464" alt="exp5,2" src="https://github.com/user-attachments/assets/33f6d4f8-349f-46ab-bbc6-6802d9bac0b8" />
+<img width="1054" height="541" alt="exp5,1,2" src="https://github.com/user-attachments/assets/8eb5023a-e224-44bf-8e69-3641467990c4" />
 
 THEORY:
 	
